@@ -1,0 +1,13 @@
+[6n[?9001h[?1004h[m]0;C:\Program Files\nodejs\node.exe[?25h]0;npm]0;npm run build[?25l
+> sub@0.1.0 build
+> next build[5;1H[?25h[K]0;C:\WINDOWS\system32\cmd.exe ]0;next-build (v16.3.2)[38;2;173;127;168m[1m▲ Next.js 16.3.2[m (Turbopack)
+[32m[1m✓[m Running next.config.ts took 45ms
+
+[37m[1m [m Creating an optimized production build ...
+[32m[1m✓[m Compiled successfully in 8.7s
+[?25l[37m[1m [m Running TypeScript  [36m.[m[K[96C[37m[1m [m Running TypeScript  [36m..[m[K[96C[37m[1m [m Running TypeScript  [36m...[m[K[96C[37m[1m [m Running TypeScript  [36m.[m[K[96C[37m[1m [m Running TypeScript  [36m..[m[K[96C[37m[1m [m Running TypeScript  [36m...[m[K[96C[37m[1m [m Running TypeScript  [36m.[m[K[96C[37m[1m [m Running TypeScript  [36m..[m[K[96C[37m[1m [m Running TypeScript  [36m...[m[K[96C[37m[1m [m Running TypeScript  [36m.[m[K[96C[37m[1m [m Running TypeScript  [36m..[m[K[96C[32m[1m✓[m Finished TypeScript in 2.3s[K[37m[1m
+ [m Collecting page data using 5 workers  [36m.[m[K[96C[37m[1m [m Collecting page data using 5 workers  [36m..[m[K[96C[37m[1m [m Collecting page data using 5 workers  [36m...[m[K[96C[37m[1m [m Collecting page data using 5 workers  [36m.[m[K[96C[32m[1m✓[m Collecting page data using 5 workers in 668ms    
+[?25h[?25l[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[    ][m[K[96C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[=   ][m[K[96C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[==  ][m[K[96C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[=== ][m[K[96C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[ ===][m[K[96C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[  ==][m[K[96C[32m[1m✓[m Generating static pages using 5 workers (4/4) in 1134ms[37m[1m
+ [m Finalizing page optimization  [36m.[m[K[96C[32m[1m✓[m Finalizing page optimization in 19ms    [4m[15;1HRoute (app)[24m
+┌ ○ /
+└ ○ /_not-found[20;1H○  (Static)  prerendered as static content[22;1H[?25h[K[?9001l[?1004l
